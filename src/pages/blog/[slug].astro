@@ -28,8 +28,8 @@ export interface Props {
 }
 
 // 2. When its time to render, you can get the entry directly from the prop
-const { post, prev, next } = Astro.props
-
+//const { post, prev, next } = Astro.props
+const { post, prev, next } = Astro.props;
 // @ts-ignore
 const { Content, remarkPluginFrontmatter } = await post.render()
 let fm = post.data
@@ -38,7 +38,8 @@ if (rfm) {
   fm.minutesRead = rfm.minutesRead
   fm.extra = rfm.extra
 }
+
 ---
-<Layout frontmatter={fm} { prev } { next }
+<Layout frontmatter={fm}>
   <Content />
 </Layout>
