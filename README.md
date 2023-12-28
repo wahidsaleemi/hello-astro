@@ -1,5 +1,7 @@
 # hello-astro
 
+[![Azure Static Web Apps CI/CD](https://github.com/wahidsaleemi/hello-astro/actions/workflows/azure-static-web-apps-ashy-river-0963f9310.yml/badge.svg)](https://github.com/wahidsaleemi/hello-astro/actions/workflows/azure-static-web-apps-ashy-river-0963f9310.yml)
+
 Hello Astro is a full featured [Astro](https://astro.build) multi-purpose starter theme written in Typescript and TailwindCSS. It supports Markdown and MDX based pages and blog posts.
 
 ![Light](https://github.com/hellotham/hello-astro/raw/main/screenshot-light.png)
@@ -7,9 +9,6 @@ Hello Astro is a full featured [Astro](https://astro.build) multi-purpose starte
 ![Dark](https://github.com/hellotham/hello-astro/raw/main/screenshot-dark.png)
 
 ![Lighthouse](https://github.com/hellotham/hello-astro/raw/main/lighthouse.png)
-## Status Badge
-
-[![Azure Static Web Apps CI/CD](https://github.com/wahidsaleemi/hello-astro/actions/workflows/azure-static-web-apps-ashy-river-0963f9310.yml/badge.svg)](https://github.com/wahidsaleemi/hello-astro/actions/workflows/azure-static-web-apps-ashy-river-0963f9310.yml)
 
 ## More info
 Hello Astro can used for any/all of the following:
